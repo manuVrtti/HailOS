@@ -1,2 +1,2 @@
 # HailOS
-minimilistic os written from scratch
+Minimilistic os written from scratch.
