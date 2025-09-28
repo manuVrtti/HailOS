@@ -123,7 +123,7 @@ qemu-system-i386 -cdrom myos.iso
 
 - **SOHAIL KHAN** (creator & maintainer)  
 
-- *SUYASH GUPTA* (tester)
+- **SUYASH GUPTA** (tester)
 
 ---
 
